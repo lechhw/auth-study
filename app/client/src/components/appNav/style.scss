@@ -1,0 +1,12 @@
+.gnb {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+    a {
+        padding: 10px;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}

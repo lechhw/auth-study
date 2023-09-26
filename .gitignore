@@ -1,0 +1,10 @@
+/app/client/node_modules
+/app/client/package-lock.json
+/app/client/.env
+/app/client/dist
+
+/app/server/node_modules
+/app/server/package-lock.json
+/app/server/config/dev.js
+
+.prettierrc

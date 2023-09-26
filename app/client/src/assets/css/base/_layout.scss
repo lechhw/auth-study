@@ -1,0 +1,16 @@
+#app {
+    position: fixed;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+    min-height: 100%;
+
+    .content {
+        height: auto;
+        margin: auto;
+        vertical-align: middle;
+        padding-bottom: 50px;
+    }
+}
